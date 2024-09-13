@@ -9,7 +9,7 @@
 
 1. Clone this repository using the command:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/devsofmukesh/automations.git
    ```
 
 2. Navigate to the **Voice Notifications Automated** directory:
@@ -36,4 +36,3 @@
 ## Advanced Possibilities
 
 <p align="justify">This prototype offers a wide range of potential applications. For example, you could implement it as a notification system for your team within an organization. It can also be used to deliver sales pitches to your target audience, provided you avoid spamming. Additionally, you could even use it for fun, such as playing pranks on your friends. The possibilities are endless!
-
